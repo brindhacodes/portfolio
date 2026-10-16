@@ -219,7 +219,7 @@ public:
           <CommandLine />
         </section>
       </main>
-      <footer className="site-footer"><span>© 2026 BRINDHA S</span><span>BUILT WITH REACT // DESIGNED WITH INTENT</span><a href="#home">RETURN_TO_TOP ↑</a></footer>
+      <footer className="site-footer"><span className="footer-name">BRINDHA_S</span><span className="footer-tagline">ENGINEERED WITH CURIOSITY // BUILT TO EVOLVE</span><a href="#home">RETURN_TO_TOP ↑</a></footer>
     </div>
   );
 }

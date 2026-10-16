@@ -1,16 +1,16 @@
 [
   {
-    "code": "EDU_01 // CURRENT",
-    "institution": "Sri Venkateswara College of Engineering",
-    "qualification": "Bachelor of Engineering — BE · Computer Engineering",
-    "meta": "Sep 2025 — May 2029",
-    "result": "Current · 9.11 CGPA"
-  },
-  {
-    "code": "EDU_02 // COMPLETE",
+    "code": "EDU_01 // COMPLETE",
     "institution": "Holy Family Convent Matriculation Higher Secondary School",
     "qualification": "Secondary and Higher Secondary Education",
     "meta": "Jun 2011 — Mar 2025",
     "result": "SSLC 95.8% · HSC 95.3% · Topper in Maths and English"
+  },
+  {
+    "code": "EDU_02 // CURRENT",
+    "institution": "Sri Venkateswara College of Engineering",
+    "qualification": "Bachelor of Engineering — BE · Computer Engineering",
+    "meta": "Sep 2025 — May 2029",
+    "result": "Current · 9.11 CGPA"
   }
 ]

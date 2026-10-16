@@ -14,8 +14,8 @@ export default function BootScreen() {
   return (
     <div className="boot-screen" role="status" aria-live="polite">
       <div className="boot-copy">
-        <p>SYSTEM WAKE // PORTFOLIO NODE</p>
-        <GlitchText as="strong">BRINDHA.S</GlitchText>
+        <p>SYSTEM WAKE / PORTFOLIO MODE</p>
+        <GlitchText as="strong">BRINDHA_S</GlitchText>
         <div className="boot-track"><i /></div>
         <button type="button" onClick={() => setActive(false)}>SKIP_BOOT [ENTER]</button>
       </div>
