@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Frontend Mini Projects",
+    "type": "INTERFACE_COLLECTION",
+    "description": "Calculator, stopwatch, password generator, number guessing game, temperature converter, digital clock, and random quote generator.",
+    "details": ["Seven focused browser tools", "Responsive UI practice", "Vanilla JavaScript interactions"]
+  },
+  {
+    "title": "Weather App",
+    "type": "API_APPLICATION",
+    "description": "A location-based weather experience presenting temperature, humidity, wind speed, and current conditions in a clear interface.",
+    "details": ["Live weather API", "Location search", "Readable condition summaries"]
+  },
+  {
+    "title": "Space Mission X",
+    "type": "MISSION_SIMULATOR",
+    "description": "An interactive mission dashboard with launch countdown, telemetry, crew monitoring, resource tracking, and mission reports.",
+    "details": ["Live mission telemetry", "Destination controls", "Responsive NASA-inspired dashboard"]
+  },
+  {
+    "title": "Ethical AI Analyser",
+    "type": "AI_EVALUATION",
+    "description": "A responsible-AI platform that evaluates concepts for bias, privacy, transparency, misuse, and compliance risk.",
+    "details": ["FastAPI, SQLAlchemy, PostgreSQL, and Tailwind CSS", "Real-time ethical risk scores and compliance indicators", "Automated ethics reports with practical mitigation steps"]
+  },
+  {
+    "title": "AI ArchFlow",
+    "type": "DESIGN_INTELLIGENCE",
+    "description": "An architectural concept platform for visualizing layouts and receiving intelligent design recommendations.",
+    "details": ["Concept generation", "Layout visualization", "Design guidance"]
+  },
+  {
+    "title": "PickleMonk Studios",
+    "type": "FULL_STACK_BOOKING_PLATFORM",
+    "description": "A production-ready studio rental website with real-time availability, secure booking payments, receipts, and protected operations tooling.",
+    "details": ["Multi-step booking with live slot checks and Razorpay", "Supabase Edge Functions, webhooks, SMTP notifications, and PDF receipts", "Protected admin console with booking status controls and audit logs"],
+    "featured": true
+  },
+  {
+    "title": "Civora",
+    "type": "CIVIC_TECH_PLATFORM",
+    "description": "Connects citizens with local government services through evidence uploads, live maps, resolution tracking, and analytics.",
+    "details": ["English and Tamil support", "Officer dashboard and SLA tracking", "Community confirmations"]
+  }
+]

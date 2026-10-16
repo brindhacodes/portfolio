@@ -1,0 +1,26 @@
+{
+  "technical": [
+    { "skill": "C", "level": 80 },
+    { "skill": "C++", "level": 80 },
+    { "skill": "HTML", "level": 80 },
+    { "skill": "CSS", "level": 80 },
+    { "skill": "Data Structures", "level": 75 },
+    { "skill": "React", "level": 75 },
+    { "skill": "Node.js", "level": 75 },
+    { "skill": "Python", "level": 75 },
+    { "skill": "JavaScript", "level": 75 },
+    { "skill": "Java", "level": 50 },
+    { "skill": "PostgreSQL", "level": 50 }
+  ],
+  "soft": [
+    "Leadership",
+    "Communication",
+    "Teamwork",
+    "Problem Solving",
+    "Critical Thinking",
+    "Time Management",
+    "Adaptability",
+    "Self-Motivation",
+    "Quick Learner"
+  ]
+}
