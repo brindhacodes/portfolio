@@ -89,10 +89,15 @@ export default function App() {
         <section id="about" className="dark-section about-section">
           <SectionHeading meta="/USR/BRINDHA/PROFILE.TXT">ABOUT_ME</SectionHeading>
           <Reveal><div className="about-layout">
-            <div className="about-index">
-              <span>SYSTEM_STATUS</span><strong>{isOnline ? "ONLINE" : "OFFLINE"}</strong>
-              <span>PROFILE_TYPE</span><strong>DEVELOPER</strong>
-              <pre className="profile-code" aria-label="C plus plus profile code"><code>{`class Brindha S
+            <div className="about-sidebar">
+              <figure className="profile-portrait">
+                <img src="/media/brindha-profile.jpg" alt="Portrait of Brindha S by the waterfront" loading="lazy" decoding="async" />
+                <figcaption>BRINDHA_S // IDEAS_INTO_SOFTWARE</figcaption>
+              </figure>
+              <div className="about-index">
+                <span>SYSTEM_STATUS</span><strong>{isOnline ? "ONLINE" : "OFFLINE"}</strong>
+                <span>PROFILE_TYPE</span><strong>DEVELOPER</strong>
+                <pre className="profile-code" aria-label="C plus plus profile code"><code>{`class Brindha S
 {
 public:
 
@@ -106,6 +111,7 @@ public:
 
     void repeat();
 };`}</code></pre>
+              </div>
             </div>
             <div className="about-copy">
               <p className="about-quote">“I turn ideas into code, and code into impactful solutions.”</p>
